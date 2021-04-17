@@ -4,7 +4,7 @@
 Pewlett Hackard, a large company, was looking to determine who will be retiring in the next few years and how many positions will need to be filled. Pewlitt Hackard additionally required a list of all employees eligible for the retirement package. 
 
 ## Resources
--	Software: postgrest SQL 13, pgAdmin 4
+-	Software: postgreSQL 13, pgAdmin 4
 
 ## Analysis
 ### *Create ERDs*
